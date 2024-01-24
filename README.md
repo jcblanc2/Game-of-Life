@@ -3,7 +3,7 @@
 This project is a simple implementation of Conway's Game of Life using p5.js, a JavaScript library for creative coding. The Game of Life is a cellular automaton devised by mathematician John Conway, where each cell in a grid evolves based on a set of simple rules.
 
 ## Demo
-<img src="appr.gif" width=200><br>
+<img src="app.gif" width=200><br>
 
 ## Getting Started
 
